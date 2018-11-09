@@ -1,24 +1,25 @@
 # Default Settings 
-* C:\Users\KJM\source\SFML-2.5.1\include -> Æ÷ÇÔ µğ·ºÅÍ¸® (VC++ µğ·ºÅÍ¸®)
-* C:\Users\KJM\source\SFML-2.5.1\lib -> ¶óÀÌºê·¯¸® µğ·ºÅÍ¸®  (¸µÄ¿ - ÀÏ¹İ , ¸µÄ¿ µÑ´Ù È®ÀÎ )
-* °í±Ş¿¡¼­ MachineX86µµ È®ÀÎ 
-	flac.lib
-	freetype.lib
-	ogg.lib
-	openal32.lib
-	sfml-audio.lib
-	sfml-audio-s.lib
-	sfml-graphics.lib
-	sfml-graphics-s.lib
-	sfml-main.lib
-	sfml-network.lib
-	sfml-network-s.lib
-	sfml-system.lib
-	sfml-system-s.lib
-	sfml-window.lib
-	sfml-window-s.lib
-	vorbis.lib
-	vorbisenc.lib
-	vorbisfile.lib ÀÔ·Â (¸µÄ¿)
+* C:\Users\KJM\source\SFML-2.5.1\include -> í¬í•¨ ë””ë ‰í„°ë¦¬ (VC++ ë””ë ‰í„°ë¦¬)
+* C:\Users\KJM\source\SFML-2.5.1\lib -> ë¼ì´ë¸ŒëŸ¬ë¦¬ ë””ë ‰í„°ë¦¬  (ë§ì»¤ - ì¼ë°˜ , ë§ì»¤ ë‘˜ë‹¤ í™•ì¸ )
+* ê³ ê¸‰ì—ì„œ MachineX86ë„ í™•ì¸ 
 
-* Release ¸ğµå·Î ¹Ù²Ü °Í 
+		flac.lib
+		freetype.lib
+		ogg.lib
+		openal32.lib
+		sfml-audio.lib
+		sfml-audio-s.lib
+		sfml-graphics.lib
+		sfml-graphics-s.lib
+		sfml-main.lib
+		sfml-network.lib
+		sfml-network-s.lib
+		sfml-system.lib
+		sfml-system-s.lib
+		sfml-window.lib
+		sfml-window-s.lib
+		vorbis.lib
+		vorbisenc.lib
+		vorbisfile.lib ì…ë ¥ (ë§ì»¤)
+
+* Release ëª¨ë“œë¡œ ë°”ê¿€ ê²ƒ 
