@@ -1,0 +1,13 @@
+﻿  TetrisGame.cpp
+c:\users\kjm\source\repos\simpletetrisgame\simpletetrisgame\tetrisgame.cpp(50): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\simpletetrisgame\simpletetrisgame\tetrisgame.cpp(67): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kjm\source\repos\simpletetrisgame\simpletetrisgame\tetrisgame.cpp(93): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kjm\source\repos\simpletetrisgame\simpletetrisgame\tetrisgame.cpp(148): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kjm\source\repos\simpletetrisgame\simpletetrisgame\tetrisgame.cpp(161): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\simpletetrisgame\simpletetrisgame\tetrisgame.cpp(169): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 63 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  SimpleTetrisGame.vcxproj -> C:\Users\KJM\source\repos\SimpleTetrisGame\Release\SimpleTetrisGame.exe
