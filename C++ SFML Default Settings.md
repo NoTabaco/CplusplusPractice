@@ -1,6 +1,6 @@
 # Default Settings 
-* C:\Users\###\source\SFML-2.5.1\include -> 포함 디렉터리 (VC++ 디렉터리)
-* C:\Users\###\source\SFML-2.5.1\lib -> 라이브러리 디렉터리  (링커 - 일반 , 링커 둘다 확인 )
+* C:\Users\ABC\source\SFML-2.5.1\include -> 포함 디렉터리 (VC++ 디렉터리)
+* C:\Users\ABC\source\SFML-2.5.1\lib -> 라이브러리 디렉터리  (링커 - 일반 , 링커 둘다 확인 )
 * 고급에서 MachineX86도 확인 
 
 		flac.lib
