@@ -1,0 +1,9 @@
+﻿  Minesweeper.cpp
+c:\users\kjm\source\repos\minesweeper\minesweeper\minesweeper.cpp(7): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\minesweeper\minesweeper\minesweeper.cpp(69): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  1 of 62 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  Minesweeper.vcxproj -> C:\Users\KJM\source\repos\Minesweeper\Release\Minesweeper.exe
