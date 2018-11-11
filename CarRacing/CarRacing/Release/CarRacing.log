@@ -1,0 +1,26 @@
+﻿  CarRacing.cpp
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(27): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(28): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(30): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(30): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(56): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(57): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(58): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(64): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(65): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(115): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(116): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(117): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(118): warning C4244: '-=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(119): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(120): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(126): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(127): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(131): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\kjm\source\repos\carracing\carracing\carracing.cpp(139): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  3 of 70 functions ( 4.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  CarRacing.vcxproj -> C:\Users\KJM\source\repos\CarRacing\Release\CarRacing.exe
